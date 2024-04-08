@@ -6,6 +6,9 @@
 
 #### Resume: [Link](https://github.com/soominmyung/resume/blob/main/CV_Soomin_Myung.pdf)
 
+[![Résumé](https://github.com/soominmyung/resume/blob/main/page_0.jpg)](https://github.com/soominmyung/resume/blob/main/CV_Soomin_Myung.pdf) 
+[![Résumé](https://github.com/soominmyung/resume/blob/main/page_1.jpg)](https://github.com/soominmyung/resume/blob/main/CV_Soomin_Myung.pdf)
+
 
 <!--
 **soominmyung/soominmyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
