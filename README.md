@@ -1,8 +1,8 @@
 ### Data Scientist / Analyst / Programmer
 
-MSc Data Science at the University of Manchester
-MSc Computer Science (Artificlai Intelligence) at the University of Nottingham
-BA Economics at Seoul National University
+<p><li>MSc Data Science at the University of Manchester</li>
+<li>MSc Computer Science (Artificlai Intelligence) at the University of Nottingham</li>
+<li>BA Economics at Seoul National University</li></p>
 
 
 
