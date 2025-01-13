@@ -6,4 +6,4 @@
 
 #### Tableau: https://public.tableau.com/app/profile/soomin.myung/vizzes
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=soomin_myung)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=soominmyung)
