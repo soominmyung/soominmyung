@@ -20,5 +20,7 @@
 ---
 
 ### Machine Learning
-![CNN](https://github.com/user-attachments/assets/bb771417-f7b4-4834-9cd2-c33dbe6a5c06)
-![image](https://github.com/user-attachments/assets/832ba63e-9b0e-4063-a1f7-cefee1c66ff4)
+<p>
+  <img src="https://github.com/user-attachments/assets/bb771417-f7b4-4834-9cd2-c33dbe6a5c06" alt="Correlation Graph" style="width:50%; display:inline-block; margin-right:5px;">
+  <img src="https://github.com/user-attachments/assets/832ba63e-9b0e-4063-a1f7-cefee1c66ff4" alt="Windrose Graph" style="width:45%; display:inline-block;">
+</p>
