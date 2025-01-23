@@ -7,3 +7,10 @@
 #### Tableau: https://public.tableau.com/app/profile/soomin.myung/vizzes
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=soominmyung)
+
+### Data Visualisation
+![Sales_analysis](https://github.com/user-attachments/assets/fb4c3bbe-28ce-43ba-9cc3-5183edd4fb17)
+<p>
+  <img src="https://github.com/user-attachments/assets/9df912ae-249f-41fd-978d-684281080419" alt="Correlation Graph" style="width:40%; display:inline-block; margin-right:5px;">
+  <img src="https://github.com/user-attachments/assets/b3c00d7d-4865-4cba-8509-1149ea3a3027" alt="Windrose Graph" style="width:55%; display:inline-block;">
+</p>
