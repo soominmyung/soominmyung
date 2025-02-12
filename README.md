@@ -29,7 +29,7 @@
 
 ### SAP, MSSQL
 <p>
-  <img src="https://github.com/user-attachments/assets/62d261c5-ff80-44b8-8b3f-b49f6e4d89f2"  style="width:50%; display:inline-block; margin-right:5px;">
+  <img src="https://https://github.com/user-attachments/assets/f5183384-e5e2-46e9-a510-f65f7db011fc"style="width:50%; display:inline-block; margin-right:5px;">
   <img src="https://github.com/user-attachments/assets/8ba8c39e-89df-469c-ae40-c1a969e4f8f1"style="width:45%; display:inline-block;">
 </p>
 
