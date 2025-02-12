@@ -1,8 +1,8 @@
 ### Data Scientist / Analyst with Economics Background
 
-<p><li>MSc Data Science at the University of Manchester</li>
-<li>MSc Computer Science (Artificlai Intelligence) at the University of Nottingham</li>
-<li>BA Economics at Seoul National University</li></p>
+<p><li>MSc Data Science at the University of Manchester, Distinction </li>
+<li>MSc Computer Science (Artificlai Intelligence) at the University of Nottingham, Distinction </li>
+<li>BA Economics at Seoul National University, First-class (94.3/100) </li></p>
 
 #### Tableau: https://public.tableau.com/app/profile/soomin.myung/vizzes
 
