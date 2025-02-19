@@ -1,4 +1,4 @@
-### Data Scientist / Analyst with Economics Background
+### Data Scientist with Economics Background
 
 <p><li>MSc Data Science at the University of Manchester, Distinction </li>
 <li>MSc Computer Science (Artificlai Intelligence) at the University of Nottingham, Distinction </li>
