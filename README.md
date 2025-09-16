@@ -6,4 +6,3 @@ Data Scientist with Economics background, passionate about ETL, data engineering
 
 #### LinkedIn: https://www.linkedin.com/in/soomin-myung-41a168216/
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=soominmyung)
