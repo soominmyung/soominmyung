@@ -3,7 +3,7 @@
 
 <br>
 
-## 📊 Data is more than numbers; it’s the bridge between decisions and impact!
+## 📊 Data is more than numbers. It’s the bridge between decisions and impact!
 
 - I focus on turning raw data into **business insights and process improvements that create real value.**
 - My role is to ensure that **non-technical stakeholders** — from C-suite to colleagues and customers — **can benefit effortlessly from data.**
