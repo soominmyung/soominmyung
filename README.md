@@ -41,10 +41,10 @@ BA Economics – Seoul National University
 
 ## 📂 Featured Projects on GitHub
 
-**📊 Stock ETL Project**
+**⚡ Stock ETL Project**
 : PySpark ETL replacing Excel logs for daily stock history.
 
-**📊 SAP B1 SQL Queries** – anonymised portfolio of queries used at Korea Foods for inventory, sales, costing, imports, and fraud detection  
+**🗄️ SAP B1 SQL Queries** – anonymised portfolio of queries used at Korea Foods for inventory, sales, costing, imports, and fraud detection  
 
 **🖼 CNN for CIFAR-10**
 : hyperparameter tuning, 73% → 81% accuracy.
