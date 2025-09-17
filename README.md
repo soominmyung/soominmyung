@@ -12,8 +12,8 @@
 
 ## 💼 Data Scientist @ Korea Foods
 
-**Korea Foods Runs 🏪 20+ Seoul Plaza shops across the UK, plus wholesale & commercial sales of imported Korean foods (£78M turnover).** <br><br>
-**I’m the first (and only!) in-house data scientist** — <br>
+Korea Foods Runs **🏪 20+ Seoul Plaza shops across the UK, plus wholesale & commercial sales** of imported Korean foods (**£78M turnover**). <br><br>
+**I’m the first (and only!) data scientist** — <br>
 **facing very real challenges, solving them hands-on, and turning each into an opportunity to work with non-technical stakeholders, understand business processes, and improve them.**
 
 <br>
@@ -22,9 +22,9 @@
 
 **📊 Tableau dashboards**: sales + stock combined → smarter replenishment, fewer lost sales
 
-**🔍 Fraud detection (SQL + clustering)**: uncovered £700K irregular membership claims
+**🔍 Fraud detection (SQL + clustering)**: uncovered **£700K irregular membership claims**
 
-**🤖 Automated reporting (SAP + SQL)**: swapped endless manual work for scheduled jobs → ~5,000 staff hours saved/year
+**🤖 Automated reporting (SAP + SQL)**: swapped endless manual work for scheduled jobs → **~5,000 staff hours saved/year**
 
 
 <br>
