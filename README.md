@@ -18,7 +18,7 @@ Korea Foods Runs **🏪 20+ Seoul Plaza shops across the UK, plus wholesale & co
 
 <br>
 
-**⚡ Stock ETL (PySpark + SQL Server)**: automated daily inventory history → **£3.9M revenue uplift**
+**⚡ Stock ETL (PySpark + SQL Server)**: automated daily inventory history, which contributed — together with other reporting and dashboard projects — to a **£3.9M revenue uplift**
 
 **📊 Tableau dashboards**: sales + stock combined → smarter replenishment, fewer lost sales
 
