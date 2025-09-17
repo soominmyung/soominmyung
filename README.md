@@ -24,7 +24,7 @@ Korea Foods Runs **🏪 20+ Seoul Plaza shops across the UK, plus wholesale & co
 
 **🔍 Fraud detection (SQL + clustering)**: uncovered **£700K irregular membership claims**
 
-**🤖 Automated reporting (SAP + SQL)**: swapped endless manual work for scheduled jobs → **~5,000 staff hours saved/year**
+**🤖 Automated reporting (SAP + SQL)**: replaced manual work with scheduled jobs → **5,000+ staff hours saved annually**  
 
 
 <br>
@@ -44,6 +44,8 @@ BA Economics – Seoul National University
 **📊 Stock ETL Project**
 : PySpark ETL replacing Excel logs for daily stock history.
 
+**📊 SAP B1 SQL Queries** – anonymised portfolio of queries used at Korea Foods for inventory, sales, costing, imports, and fraud detection  
+
 **🖼 CNN for CIFAR-10**
 : hyperparameter tuning, 73% → 81% accuracy.
 
@@ -55,8 +57,8 @@ BA Economics – Seoul National University
 
 <br>
 
-## ⚙️ Core skills
-Python · PySpark · SQL · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · Data pipelines (ETL, modelling, automation) · Statistical modelling · AWS · SAP B1 · Git · FastAPI
+## ⚙️ Core Skills
+Python · PySpark · T-SQL (Microsoft SQL Server) · SSMS · MSSQL Agent (scheduling & automation) · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · ETL & Data Pipelines · Statistical Modelling · AWS · SAP B1 · Git · FastAPI
 
 <br> 
 
