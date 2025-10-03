@@ -22,9 +22,9 @@ Korea Foods Runs **🏪 20+ Seoul Plaza shops across the UK, plus wholesale & co
 
 **📊 Tableau dashboards**: sales + stock combined → smarter replenishment, fewer lost sales
 
-**🔍 Fraud detection (SQL + clustering)**: uncovered **£700K irregular membership claims**
+**🔍 Fraud detection (SQL + clustering)**: uncovered **£70K irregular membership claims**
 
-**🤖 Automated reporting (SAP + SQL)**: replaced manual work with scheduled jobs → **5,000+ staff hours saved annually**  
+**🤖 Automated reporting (SAP + SQL)**: replaced manual work with scheduled jobs → **1,875+ staff hours saved annually**  
 
 
 <br>
