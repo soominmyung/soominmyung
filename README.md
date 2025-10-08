@@ -59,7 +59,7 @@ BA Economics – Seoul National University
 <br>
 
 ## ⚙️ Core Skills
-Python · PySpark · T-SQL (Microsoft SQL Server) · SSMS · MSSQL Agent (scheduling & automation) · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · ETL & Data Pipelines · Statistical Modelling · AWS · SAP B1 · Git · Rest AI · FastAPI · Time Series Forecasting (ARIMA, Facebook Prophet)
+Python · PySpark · T-SQL (Microsoft SQL Server) · SSMS · MSSQL Agent (scheduling & automation) · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · ETL & Data Pipelines · Statistical Modelling · AWS · SAP B1 · Git · Rest API · FastAPI · Time Series Forecasting (ARIMA, Facebook Prophet)
 
 <br> 
 
