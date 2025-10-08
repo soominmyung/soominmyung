@@ -20,12 +20,13 @@ Korea Foods Runs **🏪 20+ Seoul Plaza shops across the UK, plus wholesale & co
 
 **⚡ Stock ETL (PySpark + SQL Server)**: automated daily inventory history, which contributed — together with other reporting and dashboard projects — to a **£3.9M revenue uplift**
 
+**📈 Sales Forecasting (SARIMA + Prophet)**: Built time-series models that capture product seasonality and holiday effects, integrated with ETL workflows for proactive replenishment.
+
 **📊 Tableau dashboards**: sales + stock combined → smarter replenishment, fewer lost sales
 
 **🔍 Fraud detection (SQL + clustering)**: uncovered **£70K irregular membership claims**
 
 **🤖 Automated reporting (SAP + SQL)**: replaced manual work with scheduled jobs → **1,875+ staff hours saved annually (~15 users, 30-45mins per day)**  
-
 
 <br>
 
@@ -58,11 +59,11 @@ BA Economics – Seoul National University
 <br>
 
 ## ⚙️ Core Skills
-Python · PySpark · T-SQL (Microsoft SQL Server) · SSMS · MSSQL Agent (scheduling & automation) · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · ETL & Data Pipelines · Statistical Modelling · AWS · SAP B1 · Git · FastAPI
+Python · PySpark · T-SQL (Microsoft SQL Server) · SSMS · MSSQL Agent (scheduling & automation) · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · ETL & Data Pipelines · Statistical Modelling · AWS · SAP B1 · Git · Rest AI · FastAPI · Time Series Forecasting (ARIMA, Facebook Prophet)
 
 <br> 
 
 ## 📈 Focus areas
-Data engineering · Data science (machine learning & deep learning) · Business analytics
+ETL automation · Forecasting & predictive analytics · Anomaly detection · Data integration · BI visualisation
 
 
