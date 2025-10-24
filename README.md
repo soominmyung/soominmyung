@@ -5,28 +5,28 @@
 
 ## 📊 Data is more than numbers. It’s the bridge between decisions and impact!
 
-- I focus on turning raw data into **business insights and process improvements that create real value.**
-- My role is to ensure that **non-technical stakeholders** — from C-suite to colleagues and customers — **can benefit effortlessly from data.**
+I focus on turning raw data into business insights and process improvements that create real value.
+
+My role is to ensure that non-technical stakeholders — from C-suite to colleagues and customers — can benefit effortlessly from data.
 
 <br>
 
-## 💼 Data Scientist @ Korea Foods
+## 💼 What I Do as a Data Scientist
 
-Korea Foods Runs **🏪 20+ Seoul Plaza shops across the UK, plus wholesale & commercial sales** of imported Korean foods (**£78M turnover**). <br><br>
-**I’m the first (and only!) data scientist** — <br>
-**facing very real challenges, solving them hands-on, and turning each into an opportunity to work with non-technical stakeholders, understand business processes, and improve them.**
+I design and deliver data solutions that connect business operations with analytics, combining technical depth with stakeholder collaboration.
+My work spans retail, logistics, and commercial domains, solving real-world problems through data-driven decision-making and automation.
 
 <br>
 
-**⚡ Stock ETL (PySpark + SQL Server)**: automated daily inventory history, which contributed — together with other reporting and dashboard projects — to a **£3.9M revenue uplift**
+⚡ Stock ETL (PySpark + SQL Server): automated daily inventory history, contributing to better forecasting and measurable revenue growth.
 
-**📈 Sales Forecasting (SARIMA + Prophet)**: Built time-series models that capture product seasonality and holiday effects, integrated with ETL workflows for proactive replenishment.
+📈 Sales Forecasting (time-series modelling): built models that capture seasonality and holiday effects, integrated with ETL workflows for proactive stock planning.
 
-**📊 Tableau dashboards**: sales + stock combined → smarter replenishment, fewer lost sales
+📊 KPI Dashboards (Tableau + SQL): combined sales and stock views to support smarter replenishment and reduce lost sales.
 
-**🔍 Fraud detection (SQL + clustering)**: uncovered **£70K irregular membership claims**
+🔍 Anomaly & Fraud Detection: identified irregular claims and transactions through SQL logic and clustering-based detection.
 
-**🤖 Automated reporting (SAP + SQL)**: replaced manual work with scheduled jobs → **1,875+ staff hours saved annually (~15 users, 30-45mins per day)**  
+🤖 Automated Reporting (SAP + SQL): replaced manual reporting with scheduled jobs, saving hundreds of staff hours annually.
 
 <br>
 
