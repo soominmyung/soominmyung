@@ -6,15 +6,14 @@
 ## 📊 Data is more than numbers. It’s the bridge between decisions and impact!
 
 I focus on turning raw data into business insights and process improvements that create real value.
-
 My role is to ensure that non-technical stakeholders — from C-suite to colleagues and customers — can benefit effortlessly from data.
 
 <br>
 
 ## 💼 What I Do as a Data Scientist
 
-I design and deliver data solutions that connect business operations with analytics, combining technical depth with stakeholder collaboration.
-My work spans retail, logistics, and commercial domains, solving real-world problems through data-driven decision-making and automation.
+I design and deliver data solutions that connect business operations with analytics, combining technical depth with stakeholder collaboration.  
+My work spans **retail, logistics, commercial, and environmental domains**, solving real-world problems through data-driven decision-making and automation.
 
 <br>
 
@@ -27,6 +26,10 @@ My work spans retail, logistics, and commercial domains, solving real-world prob
 🔍 Anomaly & Fraud Detection: identified irregular claims and transactions through SQL logic and clustering-based detection.
 
 🤖 Automated Reporting (SAP + SQL): replaced manual reporting with scheduled jobs, saving hundreds of staff hours annually.
+
+🌍 Environmental Modelling and Analysis (QGIS + Flood Modeller + Python): rainfall analysis · hydrological modelling · ETo estimation · flood simulation · glacier runoff analysis.
+
+
 
 <br>
 
@@ -56,14 +59,17 @@ BA Economics – Seoul National University
 **🚔 Police DB App**
 : PHP + MySQL web app with CRUD and role-based access.
 
+**🌍 Environmental Modelling and Analysis** 
+: GIS & hydrological modelling using QGIS, regression, ETo, and Flood Modeller  
+
 <br>
 
 ## ⚙️ Core Skills
-Python · PySpark · T-SQL (Microsoft SQL Server) · SSMS · MSSQL Agent (scheduling & automation) · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · ETL & Data Pipelines · Statistical Modelling · AWS · SAP B1 · Git · Rest API · FastAPI · Time Series Forecasting (ARIMA, Facebook Prophet)
+Python · PySpark · T-SQL (Microsoft SQL Server) · SSMS · MSSQL Agent (scheduling & automation) · R · Tableau · Power BI · TensorFlow/Keras · scikit-learn · ETL & Data Pipelines · Statistical Modelling · AWS · SAP B1 · Git · Rest API · FastAPI · Time Series Forecasting (ARIMA, Facebook Prophet) · QGIS · Flood Modeller · Spatial Interpolation (Regression, MQUAD, Cokriging) · ETo & Hydrological Modelling
 
 <br> 
 
 ## 📈 Focus areas
-ETL automation · Forecasting & predictive analytics · Anomaly detection · Data integration · BI visualisation
+ETL automation · Forecasting & predictive analytics · Anomaly detection · Data integration · BI visualisation · Spatial & Environmental Modelling
 
 
