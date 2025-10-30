@@ -9,7 +9,7 @@
 I focus on turning raw data into business insights and process improvements that create real value.
 My role is to ensure that non-technical stakeholders — from C-suite to colleagues and customers — can benefit effortlessly from data.
 
-<br>
+---
 
 ## 💼 What I Do as a Data Scientist
 
@@ -30,7 +30,7 @@ My experience spans **retail, logistics, commercial, and environmental domains**
 
 🌍 **Environmental & Spatial Modelling (R + QGIS + Flood Modeller + Python)** – Conducted rainfall analysis, hydrological simulations, ETo estimation, and glacier runoff modelling using spatial interpolation and regression techniques.  
 
-<br>
+---
 
 ## 🎓 Education
 
@@ -40,10 +40,9 @@ MSc Computer Science (AI, Distinction) – University of Nottingham
 
 BA Economics – Seoul National University
 
-<br>
+---
 
 ## 📂 Featured Projects on GitHub
-
 ### 📌 Pinned
 
 **⚡ Stock ETL Project**
@@ -64,15 +63,16 @@ BA Economics – Seoul National University
 **🌍 Environmental Modelling and Analysis** 
 : GIS & hydrological modelling using QGIS, regression, ETo, and Flood Modeller  
 
-### etc.
+<br>
 
+### 🗂etc.
 **🎲 Monopoly-SQL**
 : full Monopoly simulation using SQL triggers and procedures.
 
 **🚔 Police DB App**
 : PHP + MySQL web app with CRUD and role-based access.
 
-<br>
+---
 
 ## ⚙️ Core Skills
 **Languages & Frameworks:** Python · PySpark · R · SQL (T-SQL, Microsoft SQL Server) · FastAPI · REST API  
@@ -81,7 +81,7 @@ BA Economics – Seoul National University
 **Spatial & Environmental:** QGIS · Flood Modeller · Spatial Interpolation (Regression, MQUAD, Cokriging) · ETo & Hydrological Modelling  
 **Enterprise Tools:** SAP B1 · Git · Version Control  
 
-<br>
+---
 
 ## 📈 Focus Areas
 ETL Automation · Forecasting & Predictive Analytics · Anomaly Detection · Data Integration · BI Visualisation · Spatial & Environmental Modelling
