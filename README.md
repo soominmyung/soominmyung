@@ -51,11 +51,11 @@ BA Economics – Seoul National University
 **🗄️ SAP B1 SQL Queries**
 : anonymised portfolio of queries used at Korea Foods for inventory, sales, costing, imports, and fraud detection  
 
-**🖼 CNN for CIFAR-10**
-: hyperparameter tuning, 73% → 81% accuracy.
-
 **📈 Vacancy Forecasting**
 : Automated time-series pipeline consolidating multi-vintage datasets and producing consistent forecasting outputs with simple, interpretable models.
+
+**🖼 CNN for CIFAR-10**
+: hyperparameter tuning, 73% → 81% accuracy.
 
 **🐿 Spatial Distribution Modelling**
 : GIS-based ecological modelling using R (terra, sf, mlr), comparing Random Forest and SVM with spatial cross-validation to control autocorrelation bias.
