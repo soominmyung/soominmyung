@@ -4,86 +4,78 @@
 
 <br>
 
-## 📊 Data is more than numbers. It’s the bridge between decisions and impact!
+## 🤖 I build practical AI & ML systems that turn complex data into decisions.
 
-I focus on turning raw data into business insights and process improvements that create real value.
-My role is to ensure that non-technical stakeholders — from C-suite to colleagues and customers — can benefit effortlessly from data.
+I specialise in **applied machine learning, deep learning architectures, and AI-driven workflow automation**.  
+My work spans building **Transformer-based models, time-series forecasting systems, and scalable ETL pipelines** that support real operational decision-making.
 
----
-
-## 💼 What I Do as a Data Scientist
-
-I build **end-to-end data solutions** that connect business operations with analytics — combining technical depth with stakeholder collaboration.  
-My experience spans **retail, logistics, commercial, and environmental domains**, delivering measurable impact through automation, forecasting, and spatial modelling.
-
-<br>
-
-⚡ **Stock ETL (PySpark + SQL Server)** – Automated daily inventory history pipeline, improving data accuracy and supporting reliable demand forecasting.  
-
-📈 **Sales Forecasting (Time-Series Modelling)** – Captured seasonality and holiday effects using ARIMA and Prophet; integrated predictions into ETL workflows for proactive stock planning.  
-
-📊 **KPI Dashboards (Tableau / Power BI + SQL)** – Unified sales and stock views to enhance replenishment efficiency and reduce lost sales.  
-
-🔍 **Anomaly & Fraud Detection (SQL + Python)** – Detected irregular claims and unusual transaction patterns through rule-based and clustering approaches.  
-
-🤖 **Automated Reporting (SAP B1 + SQL + Scheduler)** – Deployed scheduled jobs to replace manual reporting, saving hundreds of staff hours annually.  
-
-🌍 **Environmental & Spatial Modelling (R + QGIS + Flood Modeller + Python)** – Conducted rainfall analysis, hydrological simulations, ETo estimation, and glacier runoff modelling using spatial interpolation and regression techniques.  
+I particularly enjoy transforming ambiguous business or behavioural problems into **structured, ML-ready formulations** — from signal engineering to modelling, evaluation, and deployment.
 
 ---
 
-## 🎓 Education
+## 💼 What I Do as an Applied ML & Data Scientist
 
-MSc Data Science (Distinction) – University of Manchester
+⚙️ **Deep Learning & ML Modelling** – Transformers, Siamese networks, CNNs, anomaly detection, preference learning, forecasting models.  
 
-MSc Computer Science (AI, Distinction) – University of Nottingham
+📈 **Behavioural & Time-Series Modelling** – ARIMA/Prophet/Statsmodels, sequence modelling, pattern extraction, regime-aware signal engineering.  
 
-BA Economics – Seoul National University
+🤖 **AI Workflow Automation** – RAG prototypes (GPT, LangChain, FAISS), document summarisation, email drafting, automated reasoning flows.  
+
+⚡ **Data Engineering Foundations** – PySpark ETL, SQL Server pipelines, scheduling/automation, enterprise-scale data integration.  
+
+📊 **Operational Analytics** – BI dashboards, KPI systems, end-to-end reporting automation.  
+
+🌍 **Scientific & Spatial Modelling (Legacy Work)** – Hydrology, spatial interpolation, environmental modelling (QGIS, R).  
 
 ---
 
 ## 📂 Featured Projects on GitHub
 ### 📌 Pinned
 
-**⚡ Stock ETL Project**
-: PySpark ETL replacing Excel logs for daily stock history.
+**🧠 Siamese Transformer for Financial Preference Learning**  
+: 8-layer Siamese Transformer modelling pairwise behavioural differences between financial time series. Achieved 0.81 test accuracy.
 
-**🗄️ SAP B1 SQL Queries**
-: anonymised portfolio of queries used at Korea Foods for inventory, sales, costing, imports, and fraud detection  
+**⚡ Stock ETL Pipeline (40M+ rows)**  
+: PySpark ETL replacing Excel logs for daily stock history, integrating SAP 9.1/9.3 data and automating forecasting inputs.
 
-**📈 Vacancy Forecasting**
-: Automated time-series pipeline consolidating multi-vintage datasets and producing consistent forecasting outputs with simple, interpretable models.
+**🗄️ SAP B1 SQL Portfolio**  
+: Anonymised SQL queries for inventory, sales, costing, and fraud detection built at Korea Foods.
 
-**🖼 CNN for CIFAR-10**
-: hyperparameter tuning, 73% → 81% accuracy.
+**📈 Multi-Vintage Time-Series Forecasting**  
+: Automated pipeline for collecting, aligning, and forecasting revision-prone macroeconomic datasets.
 
-**🐿 Spatial Distribution Modelling**
-: GIS-based ecological modelling using R (terra, sf, mlr), comparing Random Forest and SVM with spatial cross-validation to control autocorrelation bias.
+**🖼 CNN for CIFAR-10**  
+: Convolutional model with hyperparameter tuning, achieving 73% → 81% accuracy.
 
-**🌍 Environmental Modelling and Analysis** 
-: GIS & hydrological modelling using QGIS, regression, ETo, and Flood Modeller  
+**🌍 Spatial & Environmental Modelling (GIS)**  
+: Ecological and hydrological analysis using QGIS, R (terra, sf), Random Forest/SVM, ETo, cokriging, and Flood Modeller.
 
 <br>
 
 ### 🗂etc.
-**🎲 Monopoly-SQL**
-: full Monopoly simulation using SQL triggers and procedures.
+**🎲 Monopoly-SQL**  
+: Full Monopoly game simulation using SQL triggers and procedures.
 
-**🚔 Police DB App**
+**🚔 Police DB App**  
 : PHP + MySQL web app with CRUD and role-based access.
 
 ---
 
 ## ⚙️ Core Skills
-**Languages & Frameworks:** Python · PySpark · R · SQL (T-SQL, Microsoft SQL Server) · FastAPI · REST API  
-**Data & Analytics:** Tableau · Power BI · scikit-learn · TensorFlow / Keras · Facebook Prophet · ARIMA  
-**Data Engineering:** ETL & Pipelines · Automation (SSMS / SQL Agent) · Statistical Modelling · AWS  
-**Spatial & Environmental:** QGIS · Flood Modeller · Spatial Interpolation (Regression, MQUAD, Cokriging) · ETo & Hydrological Modelling  
-**Enterprise Tools:** SAP B1 · Git · Version Control  
+
+**Deep Learning:** PyTorch · Transformers · Siamese Networks · CNN · Attention Mechanisms  
+**Machine Learning:** scikit-learn · Statsmodels · ARIMA · Prophet · Forecasting · Anomaly Detection  
+**AI Systems:** RAG · LangChain · FAISS · GPT-based workflows · Retrieval pipelines  
+**Data Engineering:** PySpark · SQL Server (T-SQL) · ETL Pipelines · Automation (SQL Agent) · Parquet  
+**Programming:** Python · R · SQL · Version Control (Git)  
+**Cloud & Infra:** AWS (S3, SageMaker) · API Integration · FastAPI  
+**Analytics & BI:** Tableau · Power BI  
+**Legacy Scientific Tools:** QGIS · Spatial Modelling · Flood Modeller · Cokriging  
 
 ---
 
 ## 📈 Focus Areas
-ETL Automation · Forecasting & Predictive Analytics · Anomaly Detection · Data Integration · BI Visualisation · Spatial & Environmental Modelling
 
+**Deep Learning · Applied ML · Behavioural Modelling · Sequence Modelling · AI Workflow Automation ·  
+Time-Series Forecasting · Anomaly Detection · Data Integration · ETL Engineering**
 
