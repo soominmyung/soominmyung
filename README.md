@@ -46,28 +46,6 @@
 
 ---
 
-## Featured Projects on GitHub
-
-**Siamese Transformer for Financial Preference Learning**  
-: 8-layer Siamese Transformer modelling pairwise behavioural differences between financial time series. Achieved 0.81 test accuracy.
-
-**Stock ETL Pipeline (40M+ rows)**  
-: PySpark ETL replacing Excel logs for daily stock history, integrating SAP 9.1/9.3 data and automating forecasting inputs.
-
-**SAP B1 SQL Portfolio**  
-: Anonymised SQL queries for inventory, sales, costing, and fraud detection built at Korea Foods.
-
-**Multi-Vintage Time-Series Forecasting**  
-: Automated pipeline for collecting, aligning, and forecasting revision-prone macroeconomic datasets.
-
-**CNN for CIFAR-10**  
-: Convolutional model with hyperparameter tuning, achieving 73% → 81% accuracy.
-
-**Spatial & Environmental Modelling (GIS)**  
-: Ecological and hydrological analysis using QGIS, R (terra, sf), Random Forest/SVM, ETo, cokriging, and Flood Modeller.
-
----
-
 ## Core Skills
 
 ### Deep Learning & ML Modelling
@@ -96,7 +74,7 @@
 
 <br>
 
-###Programming & Backend
+### Programming & Backend
 
 **Languages:** Python · R · SQL · JavaScript (Framer/React Integration).
 
