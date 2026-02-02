@@ -2,18 +2,11 @@
 ### _Personal website: https://soominmyung.com_
 ### _LinkedIn: https://www.linkedin.com/in/soomin-myung-41a168216/_
 
-<br>
-
-## I build practical AI & ML systems that turn complex data into decisions.
-
-I specialise in **applied machine learning, deep learning architectures, and AI-driven workflow automation**.  
-My work spans building **Transformer-based models, time-series forecasting systems, and scalable ETL pipelines** that support real operational decision-making.
-
-I particularly enjoy transforming ambiguous business or behavioural problems into **structured, ML-ready formulations** — from signal engineering to modelling, evaluation, and deployment.
+### I build practical AI & ML systems that turn complex data into decisions.
 
 ---
 
-## What I Do as an Applied ML & Data Scientist
+## Core Expertise & Solutions 
 
 **Deep Learning & ML Modelling** – Transformers, Siamese networks, CNNs, anomaly detection, preference learning, forecasting models.  
 
@@ -28,7 +21,6 @@ I particularly enjoy transforming ambiguous business or behavioural problems int
 ---
 
 ## Featured Projects on GitHub
-### 📌 Pinned
 
 **Siamese Transformer for Financial Preference Learning**  
 : 8-layer Siamese Transformer modelling pairwise behavioural differences between financial time series. Achieved 0.81 test accuracy.
