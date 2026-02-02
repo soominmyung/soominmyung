@@ -45,11 +45,18 @@
 ## Core Skills
 
 **Deep Learning:** PyTorch · Transformers · Siamese Networks · CNN · Attention Mechanisms  
+
 **Machine Learning:** scikit-learn · Statsmodels · ARIMA · Prophet · Forecasting · Anomaly Detection  
+
 **AI Systems:** RAG · LangChain · FAISS · GPT-based workflows · Retrieval pipelines  
+
 **Data Engineering:** PySpark · SQL Server (T-SQL) · ETL Pipelines · Automation (SQL Agent) · Parquet  
+
 **Programming:** Python · R · SQL · Version Control (Git)  
+
 **Cloud & Infra:** AWS (S3, SageMaker) · API Integration · FastAPI  
+
 **Analytics & BI:** Tableau · Power BI  
+
 **Others:** QGIS · Spatial Modelling · Flood Modeller · Cokriging  
 
