@@ -42,7 +42,7 @@
 
 ---
 
-## ⚙️ Core Skills
+## Core Skills
 
 **Deep Learning:** PyTorch · Transformers · Siamese Networks · CNN · Attention Mechanisms  
 **Machine Learning:** scikit-learn · Statsmodels · ARIMA · Prophet · Forecasting · Anomaly Detection  
@@ -52,11 +52,4 @@
 **Cloud & Infra:** AWS (S3, SageMaker) · API Integration · FastAPI  
 **Analytics & BI:** Tableau · Power BI  
 **Others:** QGIS · Spatial Modelling · Flood Modeller · Cokriging  
-
----
-
-## 📈 Focus Areas
-
-**Deep Learning · Applied ML · Behavioural Modelling · Sequence Modelling · AI Workflow Automation ·  
-Time-Series Forecasting · Anomaly Detection · Data Integration · ETL Engineering**
 
