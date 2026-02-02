@@ -17,15 +17,13 @@ I particularly enjoy transforming ambiguous business or behavioural problems int
 
 **Deep Learning & ML Modelling** – Transformers, Siamese networks, CNNs, anomaly detection, preference learning, forecasting models.  
 
-**Behavioural & Time-Series Modelling** – ARIMA/Prophet/Statsmodels, sequence modelling, pattern extraction, regime-aware signal engineering.  
+**AI Automation** – RAG prototypes (GPT, LangChain, FAISS), document summarisation, email drafting, automated reasoning flows.  
 
-**AI Workflow Automation** – RAG prototypes (GPT, LangChain, FAISS), document summarisation, email drafting, automated reasoning flows.  
-
-**Data Engineering Foundations** – PySpark ETL, SQL Server pipelines, scheduling/automation, enterprise-scale data integration.  
+**Data Engineering** – PySpark ETL, SQL Server pipelines, scheduling/automation, enterprise-scale data integration.  
 
 **Operational Analytics** – BI dashboards, KPI systems, end-to-end reporting automation.  
 
-**Scientific & Spatial Modelling (Legacy Work)** – Hydrology, spatial interpolation, environmental modelling (QGIS, R).  
+**Scientific & Spatial Modelling** – Hydrology, spatial interpolation, environmental modelling (QGIS, R).  
 
 ---
 
