@@ -2,90 +2,44 @@
 ### _Personal website: https://soominmyung.com_
 ### _LinkedIn: https://www.linkedin.com/in/soomin-myung-41a168216/_
 
-### I build practical AI & ML systems that turn complex data into decisions.
+### ⚡️ Full-Stack AI Engineer architecting cloud-native agentic workflows and scalable data systems.
 
 ---
 
-## Core Expertise & Solutions 
+## 🚀 Core Expertise & Solutions 
 
-### AI Automation & Orchestration
+### 🤖 Agentic AI & LLMOps
+* **Multi-Agent Workflows:** Designing self-correcting, state-based LLM orchestration using **LangGraph** to automate complex reasoning and operational tasks.
+* **LLM Observability:** Integrating **LangSmith** for full telemetry tracing, evaluating AI outputs, and mitigating hallucination risks in production.
+* **Production-Grade RAG:** Implementing high-precision retrieval using **ChromaDB** with advanced metadata filtering and automated vector ingestion.
 
-**Multi-Agent Pipelines:** Designing collaborative LLM workflows using LangChain to automate complex reasoning tasks (Analysis, Document Drafting, Emailing).
+### ☁️ Cloud-Native & Deployment
+* **Serverless Architecture:** Deploying high-performance containerized microservices to **GCP Cloud Run** using **Docker**.
+* **CI/CD Automation:** Building robust deployment pipelines via **GitHub Actions** for zero-downtime updates and reliable continuous integration.
 
-**Production-Grade RAG:** Implementing high-precision retrieval using ChromaDB with advanced metadata filtering and Regex-based data ingestion.
+### 💻 Full-Stack AI Engineering
+* **High-Performance APIs:** Building asynchronous backends with **FastAPI** featuring Server-Sent Events (SSE) for real-time progress streaming.
+* **Frontend Integration:** Seamlessly connecting AI backends to modern UI platforms using **React** and **TypeScript**.
 
-**Prompt Engineering:** Developing robust system prompts with strict guardrails to ensure business-professional and safe AI outputs.
-
-<br>
-
-### Full-Stack AI Engineering
-
-**High-Performance APIs:** Building asynchronous backends with FastAPI featuring Server-Sent Events (SSE) for real-time progress streaming.
-
-**Frontend Integration:** Seamlessly connecting AI backends to modern UI/UX platforms like Framer and React.
-
-**Containerized Deployment:** Optimizing AI microservices for scalable deployment using Docker and Hugging Face Spaces.
-
-<br>
-
-### ML Modeling & Data Processing
-
-**Supply Chain Intelligence:** Translating complex business logic (Lead-times, depletion trends) into automated computation layers for inventory forecasting.
-
-**Automated Data Engineering:** Developing ETL utilities for seamless parsing and transformation of diverse formats (CSV, PDF, DOCX).
-
-**Deep Learning:** Experience with Transformers, Siamese networks, and anomaly detection for structured and unstructured data.
-
-<br>
-
-### Operational Analytics
-
-**Automated Reporting:** End-to-end automation of enterprise artefacts (Analysis Reports, Purchase Requests) stored in structured document libraries.
-
-**BI & Dashboards:** Leveraging Tableau and Power BI for KPI visualization and operational decision support.
+### 📊 Big Data & ML Engineering
+* **Data Pipelines:** Engineering ETL/ELT pipelines for massive-scale historical records (41M+ rows) using **PySpark** and **Parquet**.
+* **Forecasting & Analytics:** Translating complex business logic into predictive inventory and anomaly detection models.
 
 ---
 
-## Core Skills
+## 🛠 Core Tech Stack
 
-### Deep Learning & ML Modelling
+### 🧠 AI & Orchestration
+* **Frameworks:** LangGraph · LangChain · MCP (Model Context Protocol)
+* **LLMOps:** LangSmith · Guardrailed Prompting · AI Output Evaluation
+* **Vector DB:** ChromaDB · FAISS
 
-**Architectures:** PyTorch · Transformers · Siamese Networks · CNN · Attention Mechanisms.
+### ⚙️ Backend & Cloud Infrastructure
+* **Languages:** Python · TypeScript · SQL
+* **Backend:** FastAPI · Asynchronous Programming · SSE
+* **Cloud & DevOps:** GCP (Cloud Run, BigQuery) · Docker · GitHub Actions (CI/CD)
 
-**Time-series & Forecasting:** Statsmodels · ARIMA · Prophet · Inventory Depletion Trends · Anomaly Detection.
-
-<br>
-
-### AI Systems & Orchestration
-
-**Frameworks:** LangChain (Multi-agent Orchestration) · RAG (Retrieval-Augmented Generation) · GPT-based workflows.
-
-**Vector Search:** ChromaDB · FAISS · Metadata-filtered Retrieval pipelines.
-
-**Prompting:** Prompt Engineering with Business Guardrails.
-
-<br>
-
-### Data Engineering & Automation
-
-**Pipelines:** PySpark · SQL Server (T-SQL) · ETL Pipelines · Automated File Processing (CSV/PDF/DOCX).
-
-**Storage:** Parquet · AWS S3 · Local Vector Storage Persistence.
-
-<br>
-
-### Programming & Backend
-
-**Languages:** Python · R · SQL · JavaScript (Framer/React Integration).
-
-**APIs:** FastAPI · Asynchronous Programming · Server-Sent Events (SSE).
-
-**DevOps:** Docker · Git · Hugging Face Spaces Deployment.
-
-<br>
-
-### Analytics & Visualization
-
-**Tools:** Tableau · Power BI · In-memory Document Generation (.docx).
-
-**Spatial:** QGIS · Spatial Modelling · Flood Modeller · Cokriging.
+### 📈 Data Engineering & Machine Learning
+* **Big Data:** PySpark · Parquet · SQL Server (T-SQL)
+* **ML Modeling:** PyTorch · Transformers · Time-series Forecasting (ARIMA/Prophet)
+* **Frontend:** React · Framer Custom Code Components
