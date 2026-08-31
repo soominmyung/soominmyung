@@ -2,7 +2,7 @@
 ### _Personal website: https://soominmyung.com_
 ### _LinkedIn: https://www.linkedin.com/in/soomin-myung-41a168216/_
 
-### ⚡️ Full-Stack AI Engineer architecting cloud-native agentic workflows and scalable data systems.
+### AI Engineer 
 
 ---
 
